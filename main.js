@@ -1,3 +1,3 @@
-window.oof.start = function() {
+window.oof = function() {
 alert("OOF")
 }
